@@ -11,7 +11,7 @@ This tool is a Python-based security script designed to automate the detection o
 ## 🚀 How To Run
 1. Clone the repository:
    ```
-   git clone [https://githum.com/reemas28/Automated-Log-Analyzer.git](https://githum.com/reemas28/Automated-Log-Analyzer.git)
+   git clone [https://github.com/ReemasFury/Automated-Log-Analyzer.git](https://github.com/ReemasFury/Automated-Log-Analyzer.git)
   
 2. Navigate to the directory:
    ```
